@@ -39,7 +39,7 @@ p {
 }
 
 .flatiron {
-  background-image: url(/Users/leemcrae/Documents/Projects/Broadway/Resources/images/the-flatiron-building.png);
+  background-image: url(../Resources/images/the-flatiron-building.png);
   background-size: 100% 100%;
 }
 
